@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crm-web/static/css/main.10d63cae.css",
+    "main.js": "/crm-web/static/js/main.1e763da0.js",
+    "static/media/primeicons.svg": "/crm-web/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/crm-web/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/crm-web/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/crm-web/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/Telefonica-Bold.woff2": "/crm-web/static/media/Telefonica-Bold.158e8a7a535b92395eba.woff2",
+    "static/media/Telefonica-Regular.woff2": "/crm-web/static/media/Telefonica-Regular.28d5639badd853d0918b.woff2",
+    "static/media/Telefonica-Light.woff2": "/crm-web/static/media/Telefonica-Light.88ad9b5c43c02dd97da6.woff2",
+    "static/media/472-4726688_movistar-logo-blanco-png-logo-de-movistar-png.png": "/crm-web/static/media/472-4726688_movistar-logo-blanco-png-logo-de-movistar-png.cff20f0c5a0844c8ee59.png",
+    "index.html": "/crm-web/index.html",
+    "main.10d63cae.css.map": "/crm-web/static/css/main.10d63cae.css.map",
+    "main.1e763da0.js.map": "/crm-web/static/js/main.1e763da0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d63cae.css",
+    "static/js/main.1e763da0.js"
+  ]
+}
